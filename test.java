@@ -13,5 +13,12 @@ public class test{
         int b = 1;
         System.out.println(Integer.toBinaryString(b));
     }
+            System.out.println(Integer.toBinaryString(b));
+            System.out.println(Integer.toBinaryString(b));
+            System.out.println(Integer.toBinaryString(b));        System.out.println(Integer.toBinaryString(b));
+            System.out.println(Integer.toBinaryString(b));
+            System.out.println(Integer.toBinaryString(b));        System.out.println(Integer.toBinaryString(b));        System.out.println(Integer.toBinaryString(b));        System.out.println(Integer.toBinaryString(b));
+            System.out.println(Integer.toBinaryString(b));        System.out.println(Integer.toBinaryString(b));
+            System.out.println(Integer.toBinaryString(b));        System.out.println(Integer.toBinaryString(b));        System.out.println(Integer.toBinaryString(b));
 
 }
